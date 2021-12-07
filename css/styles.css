@@ -1,0 +1,75 @@
+.bg-z {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.fw-bold {
+    font-size: 4rem;
+    font-weight: 400 !important;
+    text-align: center;
+}
+
+.fs-4 {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.2rem !important;
+}
+
+hr {
+    margin: 30px 0;
+    color: gray;
+}
+
+.fs-6 {
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 500;
+}
+
+.cont-z {
+    max-width: 500px;
+}
+
+.app-imp {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.app-p-imp {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 1.2rem;
+}
+
+.cont-z2 {
+    background-color: orange;
+    margin-top: 150px;
+}
+
+.cont-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.app-down-tittle {
+    text-align: center;
+}
+
+.app-down-p {
+    text-align: center;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    font-weight: 500;
+}
+
+
+
